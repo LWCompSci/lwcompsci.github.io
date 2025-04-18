@@ -1,2 +1,2 @@
-# lwcompsci.github.io
-website
+# https://lwcompsci.github.io
+
